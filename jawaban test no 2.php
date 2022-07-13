@@ -6,4 +6,6 @@ if($check==1){
     echo $data[1], $data[3];
 }else if($check<0){
     echo "Tidak bisa di validasi sistem";
+}else{
+    echo $data[$check];
 }
