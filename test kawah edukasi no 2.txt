@@ -1,1 +1,0 @@
-No. 2 arraynya tidak ada isinya (empty array), apa yang mau divalidasi dari data itu
